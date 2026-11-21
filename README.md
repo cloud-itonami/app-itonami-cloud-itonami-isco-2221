@@ -1,4 +1,6 @@
 # cloud-itonami-isco-2221
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 2221. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 2221。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 2221**: Nursing Professionals.
 
@@ -75,8 +77,3 @@ the second `cloud-itonami-isco-*` occupation to reach that tier, after
 ## License
 
 AGPL-3.0-or-later.
-
-## Attribution / 出典
-
-- 職業分類: ISCO-08（国際労働機関 ILO）のコード 2221 を参照。この app は ILO が作成・確認・推奨したものではありません。
-- Occupation reference: ISCO-08 (International Labour Organization), code 2221. This app is not produced, reviewed or endorsed by the ILO.
